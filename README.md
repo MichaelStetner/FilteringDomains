@@ -7,4 +7,11 @@ Nevertheless, filtering is often performed in the time domain, for example with 
 
 To answer these questions, we will use some data from the LIGO Open Science Center. This is the data from the first observation of a gravitational wave. I chose this data because there is a very good theoretical prediction for what the data should look like, and the data is a good match when using a Butterworth filter.
 
+## Requirements
+* Python 2.x
+* Python libraries
+  * numpy
+  * scipy
+  * matplotlib
+  * h5py
 
